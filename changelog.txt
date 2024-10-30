@@ -1,0 +1,33 @@
+= 1.0.6 =
+* Tested with WordPress 5.9.2
+* Updated vendor libraries
+
+= 1.0.5 =
+* Tested with WordPress 5.8.3
+* Updated vendor libraries
+
+= 1.0.4 =
+* Tested with WordPress 5.7
+* Updated vendor libraries
+
+= 1.0.3 =
+* Tested with WordPress 5.6 and PHP 8.0
+* Fix Fork Awesome not working
+* Fix Friconix not working
+* Fix Memory saving extra line-breaks in wp-config.php when it had Windows line endings
+
+= 1.0.2 =
+* Update vendor libraries
+
+= 1.0.1 =
+12 Aug 2020
+* Tested with WordPress 5.5
+* Added codepile_load_feature filter and allow features to not be loaded with it
+* Fixed codepile_features filter not working properly
+* Fixed Fork Awesome not loading
+* Fixed warning about an invalid function on uninstall
+* Updated third party vendor libraries
+
+= 1.0.0 =
+16 Jun 2020
+* Initial release
